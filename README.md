@@ -1,11 +1,7 @@
 Intercom
 ===============
 
-[![Latest Stable Version](http://img.shields.io/github/release/darkin1/intercom.svg)](https://packagist.org/packages/darkin1/intercom) [![Donate](https://img.shields.io/badge/donate-paypal-blue.svg)](https://www.paypal.me/dciesielski)
-[![StyleCI](https://styleci.io/repos/54785593/shield?branch=master)](https://styleci.io/repos/54785593)
-[![Build Status](https://travis-ci.org/darkin1/intercom.svg?branch=master)](https://travis-ci.org/darkin1/intercom)
-
-Wrapper on the Intercom class provided by Intercom  - with support for Laravel 5.x, 6.x, 7.x, 8.x
+Wrapper on the Intercom class provided by Intercom  - with support for Laravel 9.x
 
 Installation
 ------------
